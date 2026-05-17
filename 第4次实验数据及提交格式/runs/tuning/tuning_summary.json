@@ -1,0 +1,252 @@
+{
+  "best": {
+    "conf": 0.001,
+    "iou": 0.6,
+    "augment": false,
+    "fusion": "wbf",
+    "map50_present_classes": 0.9374267401789347,
+    "map50_all_classes": 0.8749316241670058,
+    "elapsed_seconds": 39.001563299999816,
+    "models": [
+      "D:\\rk\\第4次实验数据及提交格式\\runs\\train\\traffic_sign_strong\\weights\\best.pt"
+    ],
+    "imgsz": 640,
+    "batch": 4,
+    "device": "cpu",
+    "max_det": 50
+  },
+  "all_runs": [
+    {
+      "conf": 0.001,
+      "iou": 0.45,
+      "augment": false,
+      "fusion": "wbf",
+      "map50_present_classes": 0.9373442779981482,
+      "map50_all_classes": 0.8748546594649383,
+      "elapsed_seconds": 40.1803202000001
+    },
+    {
+      "conf": 0.001,
+      "iou": 0.5,
+      "augment": false,
+      "fusion": "wbf",
+      "map50_present_classes": 0.9370961289596333,
+      "map50_all_classes": 0.8746230536956577,
+      "elapsed_seconds": 43.33211829999982
+    },
+    {
+      "conf": 0.001,
+      "iou": 0.55,
+      "augment": false,
+      "fusion": "wbf",
+      "map50_present_classes": 0.9367935478241834,
+      "map50_all_classes": 0.8743406446359046,
+      "elapsed_seconds": 48.885425699999814
+    },
+    {
+      "conf": 0.001,
+      "iou": 0.6,
+      "augment": false,
+      "fusion": "wbf",
+      "map50_present_classes": 0.9374267401789347,
+      "map50_all_classes": 0.8749316241670058,
+      "elapsed_seconds": 39.001563299999816,
+      "models": [
+        "D:\\rk\\第4次实验数据及提交格式\\runs\\train\\traffic_sign_strong\\weights\\best.pt"
+      ],
+      "imgsz": 640,
+      "batch": 4,
+      "device": "cpu",
+      "max_det": 50
+    },
+    {
+      "conf": 0.001,
+      "iou": 0.65,
+      "augment": false,
+      "fusion": "wbf",
+      "map50_present_classes": 0.9366483681731171,
+      "map50_all_classes": 0.8742051436282428,
+      "elapsed_seconds": 39.678845600000386
+    },
+    {
+      "conf": 0.003,
+      "iou": 0.45,
+      "augment": false,
+      "fusion": "wbf",
+      "map50_present_classes": 0.9368264254889243,
+      "map50_all_classes": 0.8743713304563293,
+      "elapsed_seconds": 40.747177900000224
+    },
+    {
+      "conf": 0.003,
+      "iou": 0.5,
+      "augment": false,
+      "fusion": "wbf",
+      "map50_present_classes": 0.9365840485257463,
+      "map50_all_classes": 0.8741451119573632,
+      "elapsed_seconds": 40.97591669999974
+    },
+    {
+      "conf": 0.003,
+      "iou": 0.55,
+      "augment": false,
+      "fusion": "wbf",
+      "map50_present_classes": 0.936358007754497,
+      "map50_all_classes": 0.8739341405708638,
+      "elapsed_seconds": 40.848841300000004
+    },
+    {
+      "conf": 0.003,
+      "iou": 0.6,
+      "augment": false,
+      "fusion": "wbf",
+      "map50_present_classes": 0.9369990241823565,
+      "map50_all_classes": 0.8745324225701994,
+      "elapsed_seconds": 39.80771229999982
+    },
+    {
+      "conf": 0.003,
+      "iou": 0.65,
+      "augment": false,
+      "fusion": "wbf",
+      "map50_present_classes": 0.9362306572290905,
+      "map50_all_classes": 0.8738152800804844,
+      "elapsed_seconds": 39.1808188
+    },
+    {
+      "conf": 0.005,
+      "iou": 0.45,
+      "augment": false,
+      "fusion": "wbf",
+      "map50_present_classes": 0.9368264254889243,
+      "map50_all_classes": 0.8743713304563293,
+      "elapsed_seconds": 41.20485770000005
+    },
+    {
+      "conf": 0.005,
+      "iou": 0.5,
+      "augment": false,
+      "fusion": "wbf",
+      "map50_present_classes": 0.9365840485257463,
+      "map50_all_classes": 0.8741451119573632,
+      "elapsed_seconds": 41.00869890000013
+    },
+    {
+      "conf": 0.005,
+      "iou": 0.55,
+      "augment": false,
+      "fusion": "wbf",
+      "map50_present_classes": 0.936358007754497,
+      "map50_all_classes": 0.8739341405708638,
+      "elapsed_seconds": 39.482034999999996
+    },
+    {
+      "conf": 0.005,
+      "iou": 0.6,
+      "augment": false,
+      "fusion": "wbf",
+      "map50_present_classes": 0.9369990241823565,
+      "map50_all_classes": 0.8745324225701994,
+      "elapsed_seconds": 39.22430310000027
+    },
+    {
+      "conf": 0.005,
+      "iou": 0.65,
+      "augment": false,
+      "fusion": "wbf",
+      "map50_present_classes": 0.9362306572290905,
+      "map50_all_classes": 0.8738152800804844,
+      "elapsed_seconds": 39.31290979999994
+    },
+    {
+      "conf": 0.01,
+      "iou": 0.45,
+      "augment": false,
+      "fusion": "wbf",
+      "map50_present_classes": 0.9368264254889243,
+      "map50_all_classes": 0.8743713304563293,
+      "elapsed_seconds": 38.881664999999884
+    },
+    {
+      "conf": 0.01,
+      "iou": 0.5,
+      "augment": false,
+      "fusion": "wbf",
+      "map50_present_classes": 0.9365840485257463,
+      "map50_all_classes": 0.8741451119573632,
+      "elapsed_seconds": 40.07966269999997
+    },
+    {
+      "conf": 0.01,
+      "iou": 0.55,
+      "augment": false,
+      "fusion": "wbf",
+      "map50_present_classes": 0.9362035645643185,
+      "map50_all_classes": 0.873789993593364,
+      "elapsed_seconds": 39.345947700000124
+    },
+    {
+      "conf": 0.01,
+      "iou": 0.6,
+      "augment": false,
+      "fusion": "wbf",
+      "map50_present_classes": 0.9368546232623913,
+      "map50_all_classes": 0.8743976483782319,
+      "elapsed_seconds": 38.82571740000003
+    },
+    {
+      "conf": 0.01,
+      "iou": 0.65,
+      "augment": false,
+      "fusion": "wbf",
+      "map50_present_classes": 0.9360998960814081,
+      "map50_all_classes": 0.8736932363426476,
+      "elapsed_seconds": 39.059226399999716
+    },
+    {
+      "conf": 0.02,
+      "iou": 0.45,
+      "augment": false,
+      "fusion": "wbf",
+      "map50_present_classes": 0.9363882693548833,
+      "map50_all_classes": 0.8739623847312245,
+      "elapsed_seconds": 38.886862700000165
+    },
+    {
+      "conf": 0.02,
+      "iou": 0.5,
+      "augment": false,
+      "fusion": "wbf",
+      "map50_present_classes": 0.9361619095252681,
+      "map50_all_classes": 0.873751115556917,
+      "elapsed_seconds": 38.917138199999954
+    },
+    {
+      "conf": 0.02,
+      "iou": 0.55,
+      "augment": false,
+      "fusion": "wbf",
+      "map50_present_classes": 0.9357976142460817,
+      "map50_all_classes": 0.8734111066296762,
+      "elapsed_seconds": 39.14697060000026
+    },
+    {
+      "conf": 0.02,
+      "iou": 0.6,
+      "augment": false,
+      "fusion": "wbf",
+      "map50_present_classes": 0.9364648652079351,
+      "map50_all_classes": 0.8740338741940727,
+      "elapsed_seconds": 38.922863300000245
+    },
+    {
+      "conf": 0.02,
+      "iou": 0.65,
+      "augment": false,
+      "fusion": "wbf",
+      "map50_present_classes": 0.9356067894263553,
+      "map50_all_classes": 0.8732330034645983,
+      "elapsed_seconds": 38.78580879999981
+    }
+  ]
+}
